@@ -11,9 +11,11 @@ This project analyzes ride-sharing data from Ola using Power BI to uncover busin
 
 ## Tools Used
 
--Power BI Desktop
--Excel (for raw data handling)
--SQL (for data querying and transformation)
+-Power BI Desktop.
+
+-Excel (for raw data handling).
+
+-SQL (for data querying and transformation).
 
 
 ## Questions
@@ -42,21 +44,21 @@ This project analyzes ride-sharing data from Ola using Power BI to uncover busin
 
 The dataset includes details such as:
 
-Ride ID, Customer ID
+-Ride ID, Customer ID
 
-Pickup/Drop location
+-Pickup/Drop location
 
-Distance traveled
+-Distance traveled
 
-Ride type (Micro, Mini, Prime, etc.)
+-Ride type (Micro, Mini, Prime, etc.)
 
-Payment method
+-Payment method
 
-Cancellation status
+-Cancellation status
 
-Vehicle types
+-Vehicle types
 
-<a hred="https://github.com/prasad-dhruv09/Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.xlsx">DataSet Used</a>
+<a href="https://github.com/prasad-dhruv09/Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.xlsx">DataSet Used</a>
 
 ## How To Use
 
