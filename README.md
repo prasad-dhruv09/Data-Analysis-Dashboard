@@ -1,44 +1,44 @@
 # Data-Analysis-Dashboard
 I developed a comprehensive project with multiple dashboards and tables to analyze the data. This process involved several stages, including Data Cleaning, Data Processing and Data Visualization with the help of tools like:- Excel and Power Bi.
-#Ola Ride-Sharing Data Analysis – Power BI Project
-##Overview
+
+
+# Ola Ride-Sharing Data Analysis – Power BI Project
+## Overview
 
 This project analyzes ride-sharing data from Ola using Power BI to uncover business insights related to customer behavior, trip patterns, revenue generation, and operational performance. The goal is to help stakeholders make data-driven decisions to improve service quality and efficiency.
 
 <a href="https://github.com/prasad-dhruv09/Data-Analysis-Dashboard/blob/main/OverView.png">OverView</a>
 
-##Tools Used
+## Tools Used
 
-Power BI Desktop
-
-Excel (for raw data handling)
-
-SQL (for data querying and transformation)
+-Power BI Desktop
+-Excel (for raw data handling)
+-SQL (for data querying and transformation)
 
 
-##Questions
-Ride Volume Over Time
+## Questions
+-Ride Volume Over Time?
 
-Booking Status Breakdown
+-Booking Status Breakdown?
 
-Top 5 vehicle types By Distance
+-Top 5 vehicle types By Distance?
 
-Average Customer Ratings by Vehicle Type
+-Average Customer Ratings by Vehicle Type?
 
-Canceled Rides Reasons
+-Canceled Rides Reasons?
 
-Revenue by Payment Mathods
+-Revenue by Payment Mathods?
 
-Top 5 customers by Total Booking Value
+-Top 5 customers by Total Booking Value?
 
-Ride Distance Distribution
+-Ride Distance Distribution?
 
-Driver Ratings Distribution
+-Driver Ratings Distribution?
 
-Customer Vs Driver ratings
+-Customer Vs Driver ratings?
 
 
-##Dataset
+## Dataset
 
 The dataset includes details such as:
 
@@ -58,7 +58,7 @@ Vehicle types
 
 <a hred="https://github.com/prasad-dhruv09/Data-Analysis-Dashboard/blob/main/Bookings-100000-Rows.xlsx">DataSet Used</a>
 
-##How To Use
+## How To Use
 
 1. Clone or download this repository.
 
@@ -71,18 +71,18 @@ Vehicle types
 
 4. Explore the dashboard using slicers and visuals to gain insights.
 
-##Insights Summary
+## Insights Summary
 
-Total Bookings,Total Booking Values.
+-Total Bookings,Total Booking Values.
 
-Average and Total Distance travelled by each type of vehicle.
+-Average and Total Distance travelled by each type of vehicle.
 
-Methods used by customers for Payment.
+-Methods used by customers for Payment.
 
-Cancellation Rate and their reasons.
+-Cancellation Rate and their reasons.
 
-Ratings by Drivers and Customers.
+-Ratings by Drivers and Customers.
 
-##Conclusion
+## Conclusion
 
 This Power BI dashboard enables better understanding of Ola’s ride-sharing dynamics. It can support strategic decisions in fleet management, pricing, customer service improvement, and reasons of cancellations.
