@@ -17,8 +17,28 @@ This project analyzes ride-sharing data from Ola using Power BI to uncover busin
 
 -SQL (for data querying and transformation).
 
+## Questions of Sql
+-Retrieve all successful bookings.
 
-## Questions
+-Find the average ride distance for each vehicle type.
+
+-Get the total number of canceled rides by customers.
+
+-List the top 5 customers who booked the hishest number of rides.
+
+-Get the number of rides canceled by drivers due to personal and car related issues.
+
+-Find the maximum and minimum driver ratings for prime sedan bookings.
+
+-Retireve all rides where payment was made using UPI.
+
+-Find the average customer rating per vehicle type.
+
+-Calculate the total booking values of rides completed successfully.
+
+-List all incomplete rides along with the reason.
+
+## Questions for Powe Bi
 -Ride Volume Over Time?
 
 -Booking Status Breakdown?
